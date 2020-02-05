@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>application-identifier</key>
+	<string>CTB5R79WAE.com.ioslab.GradientesAndShadows</string>
+	<key>com.apple.developer.team-identifier</key>
+	<string>CTB5R79WAE</string>
+	<key>get-task-allow</key>
+	<true/>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>CTB5R79WAE.com.ioslab.GradientesAndShadows</string>
+	</array>
+</dict>
+</plist>

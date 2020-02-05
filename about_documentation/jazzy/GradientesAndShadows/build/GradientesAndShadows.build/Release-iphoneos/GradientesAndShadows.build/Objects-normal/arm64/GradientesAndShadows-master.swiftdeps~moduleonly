@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "dfd9ee7d6e1fc6b0ddcb216caa60ff13"
+build_time: [1556759380, 88973000]
+inputs:
+  "/Users/crashbit/Clases/experiments/GradientesAndShadows/GradientesAndShadows/ViewController.swift": [9223372036, 854775807]
+  "/Users/crashbit/Clases/experiments/GradientesAndShadows/GradientesAndShadows/AppDelegate.swift": [9223372036, 854775807]
